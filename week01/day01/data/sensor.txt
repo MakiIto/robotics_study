@@ -1,0 +1,3 @@
+distance:1.25
+distance:0.82
+distance:0.35
