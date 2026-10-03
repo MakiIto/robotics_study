@@ -1,0 +1,6 @@
+INFO motor started
+INFO camera started
+WARN battery low
+ERROR lidar timeout
+INFO motor stopped
+ERROR camera disconnected
