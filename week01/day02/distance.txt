@@ -1,0 +1,5 @@
+distance 1.25
+distance 0.82
+distance 0.35
+ERROR distance_sensor
+distance 0.28
