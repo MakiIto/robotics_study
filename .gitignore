@@ -1,0 +1,19 @@
+# ROS 2
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
